@@ -37,7 +37,7 @@ Coding:
 
 Assets:
 - [Python Crash Course, 3rd Edition Book](https://nostarch.com/python-crash-course-3rd-edition): Provided spaceships
-- [@Mohammed-Dhabaab](https://github.com/mohammed-dhabaab): Provided the banner
+- [@Mohammed-Dhabaab](https://github.com/mohammed-dhabaab): Provided the banner and the video demo
 
 
 ## 🎫 Dependencies
