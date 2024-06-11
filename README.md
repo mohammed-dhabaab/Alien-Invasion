@@ -1,11 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="assets/banner/banner.png" alt="project logo" />
-</p>
-
+</div>
 
 ## 📂Table of Contents
-
-- [�Table of Contents](#table-of-contents)
 - [📋Project Description](#project-description)
 - [✨Features](#features)
 - [⛏️Built Using](#️built-using)
@@ -18,8 +15,13 @@
 - [💳License](#license)
 - [🏅Acknowledgments](#acknowledgments)
 
+ 
 ## 📋Project Description
 A simple alien invasion game that the user can interact with by destroying aliens' spaceships using a spaceship
+
+<div align="center">
+  <video src="https://github.com/mohammed-dhabaab/alien-invasion/assets/87764538/f34afa02-e1a2-42b4-a7ec-2d3620dc10b5" />
+</div>
 
 ## ✨Features 
 - The player controls a spaceship at the bottom of the screen
