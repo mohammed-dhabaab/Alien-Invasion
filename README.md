@@ -3,16 +3,11 @@
 </p>
 
 
-<p align="center">
-  Alien Invasion Game
-</p>
-
-
 ## 📂Table of Contents
 
-- [📂Table of Contents](#table-of-contents)
+- [�Table of Contents](#table-of-contents)
 - [📋Project Description](#project-description)
-- [📊Features](#features)
+- [✨Features](#features)
 - [⛏️Built Using](#️built-using)
 - [🎫 Dependencies](#-dependencies)
 - [📥 Installation](#-installation)
@@ -26,7 +21,7 @@
 ## 📋Project Description
 A simple alien invasion game that the user can interact with by destroying aliens' spaceships using a spaceship
 
-## 📊Features 
+## ✨Features 
 - The player controls a spaceship at the bottom of the screen
 - The ship can move left and right using the arrow keys
 - The ship can fire bullets upwards by pressing the space bar
