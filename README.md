@@ -9,6 +9,7 @@
 
 
 ## 📂Table of Contents
+
 - [📂Table of Contents](#table-of-contents)
 - [📋Project Description](#project-description)
 - [📊Features](#features)
@@ -18,7 +19,6 @@
   - [Using pip](#using-pip)
   - [Using conda](#using-conda)
 - [📝Usage](#usage)
-- [🔍 Explore The Project](#-explore-the-project)
 - [✍Authors](#authors)
 - [💳License](#license)
 - [🏅Acknowledgments](#acknowledgments)
@@ -69,7 +69,7 @@ Assets:
 
 3. Run the program:
     ```shell
-    python main.py
+    python src/main.py
     ```
 
 ## 📝Usage
@@ -79,10 +79,6 @@ To play the Alien Invasion game, follow these steps:
 3. After running the program
    - To move the spaceship use the arrow keys
    - To shoot by the spaceship press space
-
-## 🔍 Explore The Project
-- [Blogmors](https://github.com/mohammed-aldhabaab.github.io/blogmors)
-
 
 ## ✍Authors
 - [@Mohammed-Dhabaab](https://github.com/mohammed-dhabaab)
