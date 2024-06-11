@@ -32,8 +32,11 @@ A simple alien invasion game that the user can interact with by destroying alien
 - The user can destroy all aliens' spaceships and more aliens' spaceships will appear
 
 ## ⛏️Built Using
-Coding:
-- [Python](https://www.python.org/)
+Backend and Frontend:
+<p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+<a href="https://www.pygame.org/" target="_blank" rel="noreferrer"><img src="https://www.pygame.org/docs/_static/pygame_logo.svg" width="36" height="36" alt="Pygame" title="Pygame"/></a>
+</p>
 
 Assets:
 - [Python Crash Course, 3rd Edition Book](https://nostarch.com/python-crash-course-3rd-edition): Provided spaceships
