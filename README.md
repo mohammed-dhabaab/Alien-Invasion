@@ -3,17 +3,17 @@
 </div>
 
 ## 📂 Table of Contents
-- [📋 Project Description](#project-description)
-- [✨ Features](#features)
-- [⛏️ Built Using](#️built-using)
+- [📋 Project Description](#-project-description)
+- [✨ Features](#-features)
+- [⛏️ Built Using](#️-built-using)
 - [🎫 Dependencies](#-dependencies)
 - [📥 Installation](#-installation)
   - [Using pip](#using-pip)
   - [Using conda](#using-conda)
-- [📝 Usage](#usage)
-- [✍ Authors](#authors)
-- [💳 License](#license)
-- [🏅 Acknowledgments](#acknowledgments)
+- [📝 Usage](#-usage)
+- [✍ Contributors](#-contributors)
+- [💳 License](#-license)
+- [🏅 Acknowledgments](#-acknowledgments)
 
  
 ## 📋 Project Description
